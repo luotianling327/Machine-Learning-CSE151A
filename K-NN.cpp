@@ -1,6 +1,5 @@
 // CSE151A Homework#1 (Plus Problems)
 // Name: Tianling Luo
-// PID: A16186344
 // Ans:
 // a) Test error is 0.168142.
 // b) Test error is 0.0707965.
